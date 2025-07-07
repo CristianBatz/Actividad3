@@ -1,0 +1,14 @@
+Index: actividad3tarea.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>print(\"hola buenas dias\")
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/actividad3tarea.py b/actividad3tarea.py
+--- a/actividad3tarea.py	(revision f61fca639c8f3adf03a1f759b737554182debe9b)
++++ b/actividad3tarea.py	(date 1751908852011)
+@@ -1,1 +1,1 @@
+-print("hola buenas dias")
+\ No newline at end of file
++print("hola buenas dias")
